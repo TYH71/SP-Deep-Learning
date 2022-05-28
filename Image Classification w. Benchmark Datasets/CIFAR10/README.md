@@ -38,3 +38,12 @@
   - Pixels are devided by 127.5, then subtract 1, range between [-1, 1]
 
 $$X' = -1 + \frac{X}{127.5}$$
+
+## Notebooks
+
+1. [Baseline CNN](./CIFAR-10%20HTML/1.%20Baseline%20Implementation.html)
+2. [Baseline CNN w/ Augmentation](./CIFAR-10%20HTML/2.%20Baseline_ConvNet_w_Augmentation.html)
+3. [Modified VGG16](./CIFAR-10%20HTML/3.%20Modified_VGG16.html)
+4. [ResNet](./CIFAR-10%20HTML/4.%20ResNet.html)
+5. [Modified VGG16 w/ Full Train Data](./CIFAR-10%20HTML/5.%20Modified_VGG16_w_Full_Train_Data.html)
+6. [ResNet with Full Train Data](./CIFAR-10%20HTML/6.%20ResNet_w_Full_Train_Data.html)
